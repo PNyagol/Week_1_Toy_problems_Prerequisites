@@ -10,7 +10,8 @@ function calculateNetSalary() {
 
     // while I know that to get the total deductions I can add these rates first and multiply with the basicSalary, 
     // I have decided to take the rout of working with them individually to make my code comprehensive and easy to follow
-    // As such, I will multiply every rate of deduction with the basicSalary and then add the total deductions later.
+    // As such, I will multiply every rate of deduction with the basicSalary and then add the total deductions later
+    //  because the instructions want them separately
   
     const grossSalary = basicSalary + benefits;
     const kraDeduction = grossSalary * kraRate;

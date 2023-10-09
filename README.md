@@ -44,9 +44,9 @@ Write a JavaScript program to calculate an individual's net salary based on thei
 
 ## Repository Structure
 
-- `student-grade.js`: Solution for Challenge 1
-- `speed-detector.js`: Solution for Challenge 2
-- `net-salary-calculator.js`: Solution for Challenge 3
+- `grader.js`: Solution for Challenge 1
+- `detector.js`: Solution for Challenge 2
+- `calculator.js`: Solution for Challenge 3
 - `README.md`: This README file with instructions
 
 ## Contributing
