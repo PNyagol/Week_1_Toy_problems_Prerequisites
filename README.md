@@ -15,7 +15,7 @@ Write a JavaScript function that calculates a student's grade based on their inp
 
 #### How to Run
 
-1. Open the `student-grade.js` file in your browser or a JavaScript environment.
+1. Open the `grader.js` file in your browser or a JavaScript environment.
 2. Enter the student's marks when prompted.
 3. The program will display the corresponding grade.
 
@@ -28,7 +28,7 @@ Write a JavaScript program that calculates demerit points for a car's speed viol
 
 #### How to Run
 
-1. Open the `speed-detector.js` file in your browser or a JavaScript environment.
+1. Open the `detector.js` file in your browser or a JavaScript environment.
 2. Enter the car's speed when prompted.
 3. The program will display whether it's "Ok," the number of demerit points, or "License suspended."
 
@@ -38,7 +38,7 @@ Write a JavaScript program to calculate an individual's net salary based on thei
 
 #### How to Run
 
-1. Open the `net-salary-calculator.js` file in your browser or a JavaScript environment.
+1. Open the `calculator.js` file in your browser or a JavaScript environment.
 2. Enter the basic salary and benefits when prompted.
 3. The program will display detailed salary information, including gross salary, deductions, and net salary.
 
@@ -53,6 +53,6 @@ Write a JavaScript program to calculate an individual's net salary based on thei
 
 If you'd like to contribute to this repository, feel free to fork it and submit a pull request. You can also open issues for bug reports or suggestions.
 
-## License
+## Author & License
 
-This project is licensed under Peter Nyagol - the [LICENSE](LICENSE) file containing implicit details to be provided soon.
+This project is licensed under Peter Nyagol - the LICENSE file containing implicit details to be provided soon.
